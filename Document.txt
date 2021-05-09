@@ -1,0 +1,7 @@
+sweetalert2>>>>>>>>>>>>>>>>
+
+////////////////////////////////////////////
+Links
+https://sweetalert2.github.io/#methods
+https://cdnjs.com/libraries/limonte-sweetalert2
+https://sweetalert2.github.io/
